@@ -1,0 +1,722 @@
+[
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服、戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小美的手机",
+    "response": "是的，根据您提供的图片和描述，扶手箱上的手机是小美的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您之前提供的信息，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您之前提供的信息，图片中穿红色连帽衫的女生是小美。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小美的手机",
+    "response": "是的，根据您提供的图片和描述，扶手箱上的手机是小美的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您之前提供的信息，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您之前提供的信息，图片中穿红色连帽衫的女生叫小美。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片，穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片，穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片，穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片，穿灰色polo衫的是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小美的手机",
+    "response": "是的，根据您提供的图片，扶手箱上的手机是小美的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您提供的图片，穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您提供的图片，穿红色连帽衫的女生是小美。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小美的手机",
+    "response": "是的，根据您提供的图片和描述，扶手箱上的手机是小美的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据图片，穿黑色衣服的是一位女性，她坐在后排右侧的座位上。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "很抱歉，我无法从图片中得知穿红色连帽衫的女生叫什么名字。图片中没有提供这方面的信息。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片，这位穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片，这位穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片，这位穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片，这位穿灰色Polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小美的手机",
+    "response": "是的，根据您提供的图片，扶手箱上的手机是小美的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您之前提供的信息，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您之前提供的信息，图片中穿红色连帽衫的女生是小美。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据图片内容，这位穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据图片内容，这位穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据图片内容，这位穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据图片内容，这位穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小美的手机",
+    "response": "是的，根据图片内容，扶手箱上的手机是小美的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您之前提供的信息，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您之前提供的信息，图片中穿红色连帽衫的女生是小红。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小美的手机",
+    "response": "是的，根据您提供的图片和描述，扶手箱上的手机是小美的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您之前提供的信息，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您之前提供的信息，图片中穿红色连帽衫的女生叫小美。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，图片中穿蓝色衣服戴眼镜的男生是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，图片中穿红色连帽衫的女生是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，图片中穿灰色polo衫的是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小美的手机",
+    "response": "是的，根据图片中手机壳的样式和之前小美手机的图片，扶手箱上的手机是小美的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您之前提供的信息，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您之前提供的信息，图片中穿红色连帽衫的女生是小美。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小佳的手机",
+    "response": "是的，根据您提供的图片和描述，扶手箱上的手机就是小佳的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您提供的图片，图中穿黑色衣服的是一位女性，她坐在车的右侧后排位置。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "很抱歉，我无法从图片中得知这位穿红色连帽衫的女生叫什么名字。图片中没有提供任何关于人物姓名的信息。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小佳的手机",
+    "response": "是的，根据您提供的图片和描述，图片中扶手箱上的手机就是小佳的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的叫什么名字",
+    "response": "根据您之前提供的信息，图片中穿黑色衣服的叫小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您之前提供的信息，图片中穿红色连帽衫的女生叫小美。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色Polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小佳的手机",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的叫什么名字",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您提供的信息：\n- 图片中穿蓝色衣服戴眼镜的男生是小明。\n- 图片中穿红色连帽衫的女生叫小美。\n- 图片中穿黑色衣服的是小俊。\n- 图片中扶手箱上的手机是小佳的手机。\n- 图片中穿灰色polo衫的是小帅。\n\n因此，根据您提供的信息，图片中穿黑色衣服的叫小俊。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片，穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片，穿红色连帽衫的女生是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片，穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片，穿灰色polo衫的是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小佳的手机",
+    "response": "是的，根据您提供的图片，扶手箱上的手机是小佳的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的叫什么名字",
+    "response": "根据您之前提供的信息，穿黑色衣服的叫小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您之前提供的信息，这张图片里穿红色连帽衫的女生叫小美。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片，这位穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片，这位穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片，这位穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片，这位穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小佳的手机",
+    "response": "是的，根据您提供的图片，扶手箱上的手机是小佳的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的叫什么名字",
+    "response": "根据您提供的图片，无法得知这位穿黑色衣服的人的名字。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "根据您提供的图片，无法得知这位穿红色连帽衫的女生叫什么。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，图片中穿灰色Polo衫的这位男士就是小帅。他坐在汽车的右侧后排座位上，戴着眼镜，留着中长发，双手放在腿上。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/5.jpg",
+    "source_text": "这张图片里扶手箱上的手机是小佳的手机",
+    "response": "根据图片，扶手箱上的手机看起来是小佳的手机。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的叫什么名字",
+    "response": "根据您提供的图片，我无法得知穿黑色衣服的人的名字。图片中没有提供任何关于人物身份的信息。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "我无法从图片中得知这位穿红色连帽衫的女士的姓名。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中坐在左侧、穿着蓝色衣服并戴着眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中坐在右侧、穿着红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中坐在后排中间、穿着黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，图片中坐在最前面、穿着灰色Polo衫的这位就是“小帅”。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的叫什么名字",
+    "response": "很抱歉，我无法提供图片中人物的姓名。识别个人身份超出了我的能力范围，并且为了保护个人隐私，我不能提供此类信息。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的叫什么名字",
+    "response": "根据图片显示，穿黑色衣服的是坐在右后座的女士。由于图片中没有提供任何姓名信息，所以无法得知她的名字。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫什么",
+    "response": "我无法从图片中得知穿红色连帽衫的女生叫什么名字。图片中没有提供任何关于她身份的信息。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，图片中坐在最前面、穿着灰色Polo衫的这位就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是谁",
+    "response": "图片中穿灰色Polo衫的是坐在前排副驾驶位置的男性。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "在图片中，坐在右侧后排座位上的女性穿着一件黑色的夹克。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生是谁",
+    "response": "图片中穿红色连帽衫的女生是坐在右侧后排座位上的那位。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据您提供的图片和描述，图片中穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "是的，根据您提供的图片和描述，图片中穿红色连帽衫的女生就是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "是的，根据您提供的图片和描述，图片中穿黑色衣服的女生就是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和描述，图片中穿灰色polo衫的男生就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是谁",
+    "response": "很抱歉，我无法从您提供的信息中得知穿灰色polo衫的人是谁。图片中没有提到这个人的名字。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "根据您之前提供的信息，图片中穿黑色衣服的女生是小俊。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生是谁",
+    "response": "根据您之前提供的信息，这张图片里穿红色连帽衫的女生是**小美**。"
+  }
+]
