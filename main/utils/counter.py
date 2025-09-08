@@ -3,7 +3,7 @@
 """
 Tkinter 多按钮计数器
 功能：
-1) 点击按钮自增计数；
+1) 点击按钮自增/自减计数；
 2) 可新增按钮；
 3) 可重命名按钮；
 4) 可删除按钮；
@@ -35,17 +35,24 @@ class ButtonRow:
         self.btn = ttk.Button(self.frame, text=self._label_text(), command=self.increment)
         self.btn.grid(row=0, column=0, sticky="ew", padx=(0, 6))
 
+        # ADDED: 减一按钮
+        self.decrement_btn = ttk.Button(self.frame, width=4, text="-1", command=self.decrement)
+        self.decrement_btn.grid(row=0, column=1, padx=(0, 4))
+
         # 重命名
-        self.rename_btn = ttk.Button(self.frame, width=6, text="重命名", command=self.rename)
-        self.rename_btn.grid(row=0, column=1, padx=(0, 4))
+        # CHANGED: width 从 6 改为 4，column 从 1 改为 2
+        self.rename_btn = ttk.Button(self.frame, width=4, text="重命名", command=self.rename)
+        self.rename_btn.grid(row=0, column=2, padx=(0, 4))
 
         # 清零
-        self.reset_btn = ttk.Button(self.frame, width=6, text="清零", command=self.reset)
-        self.reset_btn.grid(row=0, column=2, padx=(0, 4))
+        # CHANGED: width 从 6 改为 4，column 从 2 改为 3
+        self.reset_btn = ttk.Button(self.frame, width=4, text="清零", command=self.reset)
+        self.reset_btn.grid(row=0, column=3, padx=(0, 4))
 
         # 删除
-        self.del_btn = ttk.Button(self.frame, width=6, text="删除", command=self.delete)
-        self.del_btn.grid(row=0, column=3)
+        # CHANGED: width 从 6 改为 4，column 从 3 改为 4
+        self.del_btn = ttk.Button(self.frame, width=4, text="删除", command=self.delete)
+        self.del_btn.grid(row=0, column=4)
 
     def _label_text(self):
         return f"{self.name}: {self.count}"
@@ -59,6 +66,12 @@ class ButtonRow:
     # --- 行为 ---
     def increment(self):
         self.count += 1
+        self.btn.config(text=self._label_text())
+        self.on_change()
+        
+    # ADDED: 减一方法
+    def decrement(self):
+        self.count -= 1
         self.btn.config(text=self._label_text())
         self.on_change()
 
