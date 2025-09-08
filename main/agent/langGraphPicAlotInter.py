@@ -38,7 +38,7 @@ llm = ChatOpenAI(
 class State(TypedDict):
     messages: Annotated[list, add_messages]
     memory_frozen: bool
-    frozen_memory: list  # 保存冻结的前三轮对话
+    frozen_memory: list  # 保存冻结的前n轮对话
 
 
 # ===== 对话节点 =====
