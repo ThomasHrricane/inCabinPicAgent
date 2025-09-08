@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 图文问答评估器
-使用 Gemini API 根据文字说明和图片生成回答并分析质量。
+使用 Gemini API 根据文字说明和图片进行识别
 """
 import os
 import json
