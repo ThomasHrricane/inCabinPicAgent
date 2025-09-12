@@ -718,5 +718,47 @@
     "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
     "source_text": "这张图片里穿红色连帽衫的女生是谁",
     "response": "根据您之前提供的信息，这张图片里穿红色连帽衫的女生是**小美**。"
+  },
+  {
+    "index": 1,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/1.jpg",
+    "source_text": "这张图片里穿蓝色衣服戴眼镜的男生是小明",
+    "response": "是的，根据图片和您的描述，这位穿蓝色衣服戴眼镜的男生就是小明。"
+  },
+  {
+    "index": 2,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生叫小美",
+    "response": "好的，我明白了。图片中穿红色连帽衫的女生是小美。"
+  },
+  {
+    "index": 3,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这张图片里穿黑色衣服的是小俊",
+    "response": "好的，根据您提供的图片和信息，图片中穿黑色衣服的女士是小俊。"
+  },
+  {
+    "index": 4,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是小帅",
+    "response": "是的，根据您提供的图片和文字描述，图片中坐在副驾驶后方，穿着灰色Polo衫的这位男士就是小帅。"
+  },
+  {
+    "index": 5,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/4.jpg",
+    "source_text": "这张图片里穿灰色polo衫的是谁",
+    "response": "图片中穿灰色Polo衫的是坐在右侧前排的乘客。"
+  },
+  {
+    "index": 6,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/3.jpg",
+    "source_text": "这里穿黑色衣服的是谁",
+    "response": "图片中穿黑色衣服的是坐在后排右侧的女性。"
+  },
+  {
+    "index": 7,
+    "image_path": "C:/Users/ModelBest/Desktop/pre_test_data/2.jpg",
+    "source_text": "这张图片里穿红色连帽衫的女生是谁",
+    "response": "很抱歉，我无法识别图片中人物的身份。我是一个AI助手，无法获取个人身份信息。"
   }
 ]

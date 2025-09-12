@@ -19,8 +19,8 @@ base_url = os.getenv("BASE_URL", "https://one-api.modelbest.co/v1")
 SYSTEM_PROMPT = """你是一个智能助手，能够处理图片和文本信息。请根据用户提供的图片和文本内容进行回答。"""
 
 MAX_MEMORY_ROUNDS = 0   # 只保留最开始 3 轮
-OUTPUT_JSON_PATH = "./outputs/results_a11.json"
-input_files = "my_corpus/a11.jsonl" # type: ignore
+OUTPUT_JSON_PATH = "./outputs/results_a3.json"
+input_files = "my_corpus/a3.jsonl" # type: ignore
 
 ContentType = list[Union[str, dict[str, Union[str, dict[str, str]]]]]
 

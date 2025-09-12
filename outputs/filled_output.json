@@ -20,7 +20,7 @@
         "global": {
             "100000": [
                 {
-                    "ext_info": "null",
+                    "ext_info": null,
                     "flow_type": "100000",
                     "group_id": "d3747244-54e3-4c35-89b9-dd518c86e704",
                     "group_type": "single_text",
@@ -40,9 +40,9 @@
                                     "value": "可用"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "dc17a1fd-6fab-42e7-b15d-abdfc1a74910",
                             "tag_key": "是否抛弃",
                             "tag_type": "single",
@@ -99,9 +99,9 @@
                                     "value": "6"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "4c7c41cd-ff3c-48f9-89ff-b714058aa91e",
                             "tag_key": "车内人数",
                             "tag_type": "single",
@@ -162,9 +162,9 @@
                                     "value": "7"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "2b3244b5-a289-4d0a-b482-9af1f9d78ad4",
                             "tag_key": "车内物品数",
                             "tag_type": "single",
@@ -205,9 +205,9 @@
                                     "value": "2"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "410f81f1-edb3-46bb-82da-2ce866aff978",
                             "tag_key": "车内宠物数",
                             "tag_type": "single",
@@ -244,9 +244,9 @@
                                     "value": "否"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "5698eb13-d097-41b6-8e78-601f4fbc1826",
                             "tag_key": "晚上",
                             "tag_type": "single",
@@ -320,9 +320,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "00ebd55a-c23b-47cd-9b6c-3b20b125bfe0",
                             "tag_key": "person1-年龄",
                             "tag_type": "single",
@@ -388,9 +388,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "920a11c7-9337-4a06-a5d6-984dee33cf0d",
                             "tag_key": "person1-性别",
                             "tag_type": "single",
@@ -480,9 +480,9 @@
                                     "value": "过道"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "496aaeae-5f21-42b7-bfd6-5837648a435b",
                             "tag_key": "person1-位置",
                             "tag_type": "multiple",
@@ -626,9 +626,9 @@
                                     "value": "站立"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "71dced3a-2dea-4888-8426-c20130557bec",
                             "tag_key": "person1-行为",
                             "tag_type": "multiple",
@@ -766,9 +766,9 @@
                                     "value": "耳坠（大）"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "e7f4d094-cb9f-4b37-9532-c3ab140518e1",
                             "tag_key": "person1-衣裤-着装1类型",
                             "tag_type": "multiple",
@@ -885,9 +885,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "7c351375-de2e-4a75-b4d3-72e6f9862a4f",
                             "tag_key": "person1-衣裤-着装1颜色",
                             "tag_type": "multiple",
@@ -971,9 +971,9 @@
                                     "value": "靴子"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "9df7e7a2-a919-4e5a-9ba2-ac34e3843675",
                             "tag_key": "person1-衣裤-着装2类型",
                             "tag_type": "multiple",
@@ -1089,9 +1089,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "496e65ef-59e0-419f-8a40-ed6778b54ef4",
                             "tag_key": "person1-衣裤-着装2颜色",
                             "tag_type": "multiple",
@@ -1166,9 +1166,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "5acac5d1-ffb4-4bc0-bd38-d0237a06acaf",
                             "tag_key": "person2-年龄",
                             "tag_type": "single",
@@ -1233,9 +1233,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "f2e410aa-28e4-4a11-a5ca-37c110788f20",
                             "tag_key": "person2-性别",
                             "tag_type": "single",
@@ -1324,9 +1324,9 @@
                                     "value": "过道"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "9b479f7a-f3e0-47b5-b8f5-4bdf58fcad6c",
                             "tag_key": "person2-位置",
                             "tag_type": "multiple",
@@ -1469,9 +1469,9 @@
                                     "value": "站立"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "405a230b-823b-4453-b67c-50ccc60151a9",
                             "tag_key": "person2-行为",
                             "tag_type": "multiple",
@@ -1608,9 +1608,9 @@
                                     "value": "耳坠（大）"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "81815018-c8b8-44e5-ad96-6e2512b70d59",
                             "tag_key": "person2-衣裤-着装1类型",
                             "tag_type": "multiple",
@@ -1726,9 +1726,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "822d46d1-dbcf-470c-82ac-9783308abc08",
                             "tag_key": "person2-衣裤-着装1颜色",
                             "tag_type": "multiple",
@@ -1812,9 +1812,9 @@
                                     "value": "靴子"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "3a62acf3-0d30-4c73-914e-f5cdb79d9560",
                             "tag_key": "person2-衣裤-着装2类型",
                             "tag_type": "multiple",
@@ -1929,9 +1929,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "a26d2218-fdd1-4c14-9818-c6ad901d5f34",
                             "tag_key": "person2-衣裤-着装2颜色",
                             "tag_type": "multiple",
@@ -2005,9 +2005,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "fa1290d2-21c9-497c-8a93-46fd5c86497a",
                             "tag_key": "person3-年龄",
                             "tag_type": "single",
@@ -2071,9 +2071,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "e7d0d05d-091e-4402-adce-f40e1ef1db0f",
                             "tag_key": "person3-性别",
                             "tag_type": "single",
@@ -2161,9 +2161,9 @@
                                     "value": "过道"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "42ff2951-15fd-4b06-8873-25e638135279",
                             "tag_key": "person3-位置",
                             "tag_type": "multiple",
@@ -2305,9 +2305,9 @@
                                     "value": "站立"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "1cce553a-d8f8-45ad-a8c2-f4ab17c4f802",
                             "tag_key": "person3-行为",
                             "tag_type": "multiple",
@@ -2443,9 +2443,9 @@
                                     "value": "耳坠（大）"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "19f5ce42-bbbb-4fcc-9b51-a9e5552c2e74",
                             "tag_key": "person3-衣裤-着装1类型",
                             "tag_type": "multiple",
@@ -2560,9 +2560,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "e1ca66e7-0dd0-47e1-a66e-4a7197035780",
                             "tag_key": "person3-衣裤-着装1颜色",
                             "tag_type": "multiple",
@@ -2644,9 +2644,9 @@
                                     "value": "靴子"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "7fb597aa-f20d-4bc6-b93e-35be0ce78895",
                             "tag_key": "person3-衣裤-着装2类型",
                             "tag_type": "multiple",
@@ -2760,9 +2760,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "d913a3ca-f8bf-4847-a5e2-0458f90ce5e5",
                             "tag_key": "person3-衣裤-着装2颜色",
                             "tag_type": "multiple",
@@ -2835,9 +2835,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "fa64a825-8c41-443b-8d5e-2935b9c21dcb",
                             "tag_key": "person4-年龄",
                             "tag_type": "single",
@@ -2900,9 +2900,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "16040035-0803-445b-aa1a-c5821e62aec7",
                             "tag_key": "person4-性别",
                             "tag_type": "single",
@@ -2989,9 +2989,9 @@
                                     "value": "过道"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "b24fd09b-6684-4be3-99e7-428f05a505ce",
                             "tag_key": "person4-位置",
                             "tag_type": "multiple",
@@ -3132,9 +3132,9 @@
                                     "value": "站立"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "4dc2e4b9-dcce-401e-a3a3-8976627fa55f",
                             "tag_key": "person4-行为",
                             "tag_type": "multiple",
@@ -3269,9 +3269,9 @@
                                     "value": "耳坠（大）"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "0139a709-5b69-4719-b698-90cbe856e393",
                             "tag_key": "person4-衣裤-着装1类型",
                             "tag_type": "multiple",
@@ -3385,9 +3385,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "1c0c4f42-9002-4347-bc05-11cda46b2e0b",
                             "tag_key": "person4-衣裤-着装1颜色",
                             "tag_type": "multiple",
@@ -3469,9 +3469,9 @@
                                     "value": "靴子"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "e8e915a0-a907-4b19-a3e8-3905e1c87bf6",
                             "tag_key": "person4-衣裤-着装2类型",
                             "tag_type": "multiple",
@@ -3584,9 +3584,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "5a546899-26e3-47c1-9024-cb89634df274",
                             "tag_key": "person4-衣裤-着装2颜色",
                             "tag_type": "multiple",
@@ -3658,9 +3658,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "2fde3e1a-8381-4315-9de5-4785c74cceae",
                             "tag_key": "person5-年龄",
                             "tag_type": "single",
@@ -3722,9 +3722,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "b010f0f1-0bce-4f40-8a0d-dd2004bfec45",
                             "tag_key": "person5-性别",
                             "tag_type": "single",
@@ -3810,9 +3810,9 @@
                                     "value": "过道"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "b3d7bc84-0969-4f4a-b0df-139b1ad86f7b",
                             "tag_key": "person5-位置",
                             "tag_type": "multiple",
@@ -3950,9 +3950,9 @@
                                     "value": "站立"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "03d94a08-1c6c-4f84-94fd-46a91a6ea48c",
                             "tag_key": "person5-行为",
                             "tag_type": "multiple",
@@ -4086,9 +4086,9 @@
                                     "value": "耳坠（大）"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "57d57993-15a6-4cb4-8cf8-be8e259eedf6",
                             "tag_key": "person5-衣裤-着装1类型",
                             "tag_type": "multiple",
@@ -4198,9 +4198,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "261e967d-be78-4f12-8e46-4ffb72f21090",
                             "tag_key": "person5衣裤-着装1颜色",
                             "tag_type": "multiple",
@@ -4278,9 +4278,9 @@
                                     "value": "靴子"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "faba833d-e61a-4be3-8aa9-d3a2d08bfe80",
                             "tag_key": "person5-衣裤-着装2类型",
                             "tag_type": "multiple",
@@ -4390,9 +4390,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "012e392c-93b9-43df-a513-6b31546b1795",
                             "tag_key": "person5-衣裤-着装2颜色",
                             "tag_type": "multiple",
@@ -4461,9 +4461,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "c70f35ee-3aac-46e1-9b48-689c926f7229",
                             "tag_key": "person6-年龄",
                             "tag_type": "single",
@@ -4524,9 +4524,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "98b8aa46-0e06-4dc4-8158-b5056ee12764",
                             "tag_key": "person6-性别",
                             "tag_type": "single",
@@ -4611,9 +4611,9 @@
                                     "value": "过道"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "918a5ecb-c94e-497d-8d9a-09cec9813f1e",
                             "tag_key": "person6-位置",
                             "tag_type": "multiple",
@@ -4750,9 +4750,9 @@
                                     "value": "站立"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "3e36477a-b630-4a37-9fa8-70857a1bfb05",
                             "tag_key": "person6-行为",
                             "tag_type": "multiple",
@@ -4885,9 +4885,9 @@
                                     "value": "耳坠（大）"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "33166d31-5658-4c0e-aea8-c4788a56929d",
                             "tag_key": "person6-衣裤-着装1类型",
                             "tag_type": "multiple",
@@ -4996,9 +4996,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "60f44d21-b54e-423c-9df8-19744d59bd82",
                             "tag_key": "person6-衣裤-着装1颜色",
                             "tag_type": "multiple",
@@ -5075,9 +5075,9 @@
                                     "value": "靴子"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "3c256e5a-c6fe-44e6-9e37-ae5f5448618d",
                             "tag_key": "person6-衣裤-着装2类型",
                             "tag_type": "multiple",
@@ -5186,9 +5186,9 @@
                                     "value": "米色"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "8e19afb5-6cfe-42e6-92bd-502a54268ee2",
                             "tag_key": "person6-衣裤-着装2颜色",
                             "tag_type": "multiple",
@@ -5347,9 +5347,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "b81caf79-a518-4a6d-8249-94142457feca",
                             "tag_key": "good1-种类",
                             "tag_type": "single",
@@ -5460,9 +5460,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "78eb1147-648d-49ee-a2cb-69d18b003288",
                             "tag_key": "good1-位置",
                             "tag_type": "multiple",
@@ -5622,9 +5622,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "dcfed6ee-ea9e-41b1-b59c-34d6f5af20c5",
                             "tag_key": "good2-种类",
                             "tag_type": "single",
@@ -5734,9 +5734,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "2b424eaa-d383-41f4-bf01-d833757d4d08",
                             "tag_key": "good2-位置",
                             "tag_type": "multiple",
@@ -5895,9 +5895,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "6eeaae4a-520e-459a-9f6d-fb1125f92e50",
                             "tag_key": "good3-种类",
                             "tag_type": "single",
@@ -6006,9 +6006,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "dceb873f-b4b0-4d0b-b2b6-e77aea3c030a",
                             "tag_key": "good3-位置",
                             "tag_type": "multiple",
@@ -6166,9 +6166,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "1e62f844-7e64-4271-bbe5-c9227b6ed210",
                             "tag_key": "good4-种类",
                             "tag_type": "single",
@@ -6276,9 +6276,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "2dde84c5-aa9e-4a09-b483-5096b1d48908",
                             "tag_key": "good4-位置",
                             "tag_type": "multiple",
@@ -6435,9 +6435,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "bf8f800f-013c-4a93-9675-2f0e1bb5c044",
                             "tag_key": "good5-种类",
                             "tag_type": "single",
@@ -6544,9 +6544,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "81b23249-a0a3-412f-af72-afc563ed1ab7",
                             "tag_key": "good5-位置",
                             "tag_type": "multiple",
@@ -6702,9 +6702,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "f448371d-2684-438f-b702-460571e6d889",
                             "tag_key": "good6-种类",
                             "tag_type": "single",
@@ -6810,9 +6810,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "a2ade63e-e672-46cd-aa95-67973ca46f34",
                             "tag_key": "good6-位置",
                             "tag_type": "multiple",
@@ -6965,9 +6965,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "a3431fa4-5ad1-445f-b80c-f523f398fa27",
                             "tag_key": "good7-种类",
                             "tag_type": "single",
@@ -7072,9 +7072,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "cd63baf9-89b6-4e1d-b6f9-0cffb6aa156c",
                             "tag_key": "good7-位置",
                             "tag_type": "multiple",
@@ -7124,9 +7124,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "1679f1b0-d5f4-4b3f-a09e-43feed51b03b",
                             "tag_key": "pet1-种类",
                             "tag_type": "single",
@@ -7204,9 +7204,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "2cc1ddcb-f2ff-4393-baca-6e3b2a4ccbe8",
                             "tag_key": "pet1-位置",
                             "tag_type": "multiple",
@@ -7257,9 +7257,9 @@
                                     "value": "空白"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "0fb3911f-b49a-4700-8c18-fcbc6815247e",
                             "tag_key": "pet2-种类",
                             "tag_type": "single",
@@ -7336,9 +7336,9 @@
                                     "value": "UNKNOWN"
                                 }
                             ],
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "5d60bf51-6677-42dd-8abf-1cf3fff7389b",
                             "tag_key": "pet2-位置",
                             "tag_type": "multiple",
@@ -7377,9 +7377,9 @@
                                     "value": "二排"
                                 }
                             ],
-                            "is_global": "false",
+                            "is_global": false,
                             "order": 1,
-                            "required": "true",
+                            "required": true,
                             "tag_id": "23775417-4da1-424c-9acd-343f899d6789",
                             "tag_key": "摄像头位置",
                             "tag_type": "single",
@@ -7390,9 +7390,9 @@
                             "default_value": "",
                             "default_value_option": "no",
                             "display": "true",
-                            "is_global": "true",
+                            "is_global": true,
                             "order": 1,
-                            "required": "false",
+                            "required": false,
                             "tag_id": "4bc35a32-9453-473f-aa0a-5b645765e5f5",
                             "tag_key": "整体备注",
                             "tag_type": "text_box",
